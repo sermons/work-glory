@@ -1,13 +1,13 @@
 {
-  "name": "@sermons/reveal-skel",
+  "name": "@sermons/work-glory",
   "version": "1.2.2",
-  "repository": "sermons/reveal-skel",
-  "description": "A template for Reveal.js-based presentations",
-  "keywords": ["slides", "lectures", "talks", "ppt"],
+  "repository": "sermons/work-glory",
+  "description": "1Cor1:27-29 Work for the Glory of God",
+  "keywords": ["slides", "sermon", "talks", "ppt"],
   "author": "Sean Ho <seanho@seanho.com> (http://seanho.com)",
   "config": {
-    "pretty_url": "reveal-skel.seanho.com",
-    "cname": "reveal-skel.seanho.com",
+    "pretty_url": "work-glory.seanho.com",
+    "cname": "work-glory.seanho.com",
     "multiplex": {
       "url": "https://mp-seanho00.rhcloud.com:8443/",
       "id": "22bc761ffc97809b"
@@ -18,12 +18,12 @@
     },
     "history": [
       {
-        "venue": "Venue of talk",
-        "city": "Location",
-        "date": "2000-01-01"
+        "venue": "Fujian Evangelical Church",
+        "city": "Richmond",
+        "date": "2017-03-19"
       }
     ],
-    "slides": [ "slides/sample.md" ],
+    "slides": [ "slides/slides.md" ],
     "css": [
       {
         "href": "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css",

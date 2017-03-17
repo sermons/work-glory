@@ -1,9 +1,9 @@
-# reveal-skel
-## A Template for Presentations in [Reveal.js](https://github.com/hakimel/reveal.js/)
+# Work for the Glory of God (1/2)
+## 1 Corinthians 1:27-29
 
-[![Build status](https://travis-ci.org/sermons/reveal-skel.svg)](https://travis-ci.org/sermons/reveal-skel)
-[![Node deps](https://david-dm.org/sermons/reveal-skel.svg)](https://david-dm.org/sermons/reveal-skel)
-[![Node devDeps](https://david-dm.org/sermons/reveal-skel/dev-status.svg)](https://david-dm.org/sermons/reveal-skel#info=devDependencies)
+[![Build status](https://travis-ci.org/sermons/work-glory.svg)](https://travis-ci.org/sermons/work-glory)
+[![Node deps](https://david-dm.org/sermons/work-glory.svg)](https://david-dm.org/sermons/work-glory)
+[![Node devDeps](https://david-dm.org/sermons/work-glory/dev-status.svg)](https://david-dm.org/sermons/work-glory#info=devDependencies)
 
 Template presentation: [reveal-skel](https://github.com/sermons/reveal-skel)
 
