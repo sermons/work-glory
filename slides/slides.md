@@ -32,7 +32,7 @@ we're just working on **puzzles**.
 1. The Grace of **God's Work**
 
 ---
-## The Snare of Professionalism
+## 1. The Snare of Professionalism
 1. Chasing the **Guild**
 1. Building **Ambition**
 1. Earning **Wages**
@@ -55,7 +55,7 @@ so that He may **nullify** the things that are,
 </div>
 
 ---
-## The Snare of Professionalism
+## 1. The Snare of Professionalism
 1. Chasing the Guild
 1. **Building Ambition**
 1. Earning Wages
@@ -102,7 +102,7 @@ but is **earthly**, unspiritual, demonic.
 </div>
 
 ---
-## The Snare of Professionalism
+## 1. The Snare of Professionalism
 1. Chasing the Guild
 1. Building Ambition
 1. **Earning Wages**
@@ -121,3 +121,46 @@ his **faith** is counted as righteousness.
 <div class="caption">
 (Romans 4:4-5, ESV)
 </div>
+
+---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-5fNmWej4tAA-laptops_work.jpg" -->
+## Work for the Glory of God
+1. The Snare of Professionalism
+1. **The Blessing of Employment**
+1. The Grace of God's Work
+
+---
+## 2. The Blessing of Employment
+1. Rejecting **Idleness**
+1. **Sharing** Generously
+1. Training our **Heart** Attitude
+
+---
+## 2. The Blessing of Employment
+1. Rejecting Idleness
+1. **Sharing Generously**
+1. Training our Heart Attitude
+
+---
+## 2. The Blessing of Employment
+1. Rejecting Idleness
+1. Sharing Generously
+1. **Training our Heart Attitude**
+
+---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-5fNmWej4tAA-laptops_work.jpg" -->
+## Work for the Glory of God
+1. The Snare of Professionalism
+1. The Blessing of Employment
+1. **The Grace of God's Work**
+
+---
+## 3. The Grace of God's Work
+1. Welcoming His **Return**
+1. Steadfast because of His **Victory**
+
+---
+## 3. The Grace of God's Work
+1. Welcoming His Return
+1. **Steadfast because of His Victory**
+
