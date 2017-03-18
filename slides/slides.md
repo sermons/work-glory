@@ -151,11 +151,13 @@ his **faith** is counted as righteousness.
 For you yourselves know <br/>
 how you ought to **imitate** us,
 
-because we were **not idle** when we were with you, <br/>
+because we were **not idle** <br/>
+when we were with you, <br/>
 nor did we eat anyone's **bread** <br/>
 without paying for it,
 
-but with **toil** and **labor** we worked night and day, <br/>
+but with **toil** and **labor** <br/>
+we worked night and day, <br/>
 that we might not be a **burden** to any of you.
 
 <div class="caption">
@@ -165,11 +167,13 @@ that we might not be a **burden** to any of you.
 ---
 If anyone is not willing to **work**, let him not **eat**.
 
-For we hear that some among you walk in **idleness**, <br/>
+For we hear that some among you <br/>
+walk in **idleness**, <br/>
 not busy at work, but **busybodies**.
 
 Now such persons we command and encourage <br/>
-in the Lord Jesus Christ to do their **work quietly** <br/>
+in the Lord Jesus Christ <br/>
+to do their **work quietly** <br/>
 and to earn their **own living**.
 
 <div class="caption">
@@ -184,10 +188,12 @@ and to earn their **own living**.
 
 ---
 Let the **thief** no longer steal,
-	but rather let him **labor**,
-	doing **honest work** with his **own hands**,
-so that he may have something to **share**
-	with anyone in **need**.
+
+but rather let him **labor**, <br/>
+doing **honest work** with his **own hands**,
+
+so that he may have something to **share** <br/>
+with anyone in **need**.
 
 <div class="caption">
 (Ephesians 4:28, ESV)
@@ -200,12 +206,14 @@ so that he may have something to **share**
 1. **Training our Heart Attitude**
 
 ---
-**Slaves**, in all things
-	**obey** those who are your masters on earth,
-	not with **external** service,
-		as those who merely **please men**,
-but with **sincerity** of heart,
-		**fearing the Lord**.
+**Slaves**, in all things <br/>
+**obey** those who are your masters on earth,
+
+not with **external** service, <br/>
+as those who merely **please men**,
+
+but with **sincerity** of heart, <br/>
+**fearing the Lord**.
 
 <div class="caption">
 (Colossians 3:22, NASB)
@@ -225,8 +233,10 @@ but with **sincerity** of heart,
 
 ---
 But the **day of the Lord** will come like a thief, <br/>
-in which the **heavens** will **pass away** with a roar <br/>
-and the **elements** will be **destroyed** with intense heat, <br/>
+in which the **heavens** will <br/>
+**pass away** with a roar <br/>
+and the **elements** will <br/>
+be **destroyed** with intense heat, <br/>
 and the **earth** and its **works** will be **burned up**.
 
 <div class="caption">
@@ -254,12 +264,16 @@ the coming of the day of God!
 ---
 When the perishable puts on the **imperishable**, <br/>
 and the mortal puts on **immortality**, <br/>
-then shall come to pass the saying that is written: <br/>
+
+then shall come to pass <br/>
+the saying that is written: <br/>
+
 “**Death** is swallowed up in **victory**.”
 
 ---
 “O death, **where** is your victory? <br/>
-O death, **where** is your sting?” <br/>
+O death, **where** is your sting?”
+
 The sting of death is **sin**, <br/>
 and the power of sin is the **law**.
 
@@ -273,8 +287,10 @@ the **victory** through our Lord **Jesus** Christ.
 
 Therefore, my beloved brothers, <br/>
 be **steadfast**, **immovable**, <br/>
-always abounding in the **work of the Lord**, <br/>
-knowing that in the Lord your labor is **not in vain**.
+always abounding in the **work of the Lord**,
+
+knowing that in the Lord <br/>
+your labor is **not in vain**.
 
 <div class="caption">
 (1 Corinthians 15:57-58, ESV)
