@@ -148,16 +148,68 @@ his **faith** is counted as righteousness.
 1. Training our **Heart** Attitude
 
 ---
+For you yourselves know <br/>
+how you ought to **imitate** us,
+
+because we were **not idle** when we were with you, <br/>
+nor did we eat anyone's **bread** <br/>
+without paying for it,
+
+but with **toil** and **labor** we worked night and day, <br/>
+that we might not be a **burden** to any of you.
+
+<div class="caption">
+(2 Thessalonians 3:7-8, ESV)
+</div>
+
+---
+If anyone is not willing to **work**, let him not **eat**.
+
+For we hear that some among you walk in **idleness**, <br/>
+not busy at work, but **busybodies**.
+
+Now such persons we command and encourage <br/>
+in the Lord Jesus Christ to do their **work quietly** <br/>
+and to earn their **own living**.
+
+<div class="caption">
+(2 Thessalonians 3:10-12, ESV)
+</div>
+
+---
 ## 2. The Blessing of Employment
 1. Rejecting Idleness
 1. **Sharing Generously**
 1. Training our Heart Attitude
 
 ---
+Let the **thief** no longer steal,
+	but rather let him **labor**,
+	doing **honest work** with his **own hands**,
+so that he may have something to **share**
+	with anyone in **need**.
+
+<div class="caption">
+(Ephesians 4:28, ESV)
+</div>
+
+---
 ## 2. The Blessing of Employment
 1. Rejecting Idleness
 1. Sharing Generously
 1. **Training our Heart Attitude**
+
+---
+**Slaves**, in all things
+	**obey** those who are your masters on earth,
+	not with **external** service,
+		as those who merely **please men**,
+but with **sincerity** of heart,
+		**fearing the Lord**.
+
+<div class="caption">
+(Colossians 3:22, NASB)
+</div>
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-5fNmWej4tAA-laptops_work.jpg" -->
@@ -172,7 +224,58 @@ his **faith** is counted as righteousness.
 1. Steadfast because of His **Victory**
 
 ---
+But the **day of the Lord** will come like a thief, <br/>
+in which the **heavens** will **pass away** with a roar <br/>
+and the **elements** will be **destroyed** with intense heat, <br/>
+and the **earth** and its **works** will be **burned up**.
+
+<div class="caption">
+(2 Peter 3:10, NASB)
+</div>
+
+---
+Since all these things <br/>
+are to be **destroyed** in this way,
+
+what sort of people ought you to be <br/>
+in **holy conduct** and **godliness**, <br/>
+looking for and **hastening** <br/>
+the coming of the day of God!
+
+<div class="caption">
+(2 Peter 3:11-12, NASB)
+</div>
+
+---
 ## 3. The Grace of God's Work
 1. Welcoming His Return
 1. **Steadfast because of His Victory**
 
+---
+When the perishable puts on the **imperishable**, <br/>
+and the mortal puts on **immortality**, <br/>
+then shall come to pass the saying that is written: <br/>
+“**Death** is swallowed up in **victory**.”
+
+---
+“O death, **where** is your victory? <br/>
+O death, **where** is your sting?” <br/>
+The sting of death is **sin**, <br/>
+and the power of sin is the **law**.
+
+<div class="caption">
+(1 Corinthians 15:54-56, ESV)
+</div>
+
+---
+But thanks be to God, who gives us <br/>
+the **victory** through our Lord **Jesus** Christ.
+
+Therefore, my beloved brothers, <br/>
+be **steadfast**, **immovable**, <br/>
+always abounding in the **work of the Lord**, <br/>
+knowing that in the Lord your labor is **not in vain**.
+
+<div class="caption">
+(1 Corinthians 15:57-58, ESV)
+</div>
