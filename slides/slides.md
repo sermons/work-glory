@@ -5,17 +5,24 @@
 ---
 <!-- .slide: data-background="white" -->
 ## Aspire to be a **fool**, <br/> not a professional
+<!-- .element: style="text-align:left" -->
+
 ## Work to train your **heart**
+<!-- .element: style="text-align:right" -->
+
 ## Toil for God's kingdom <br/> by resting in His **victory**
+<!-- .element: style="text-align:left" -->
 
 ---
 If innovation is purely **market driven**, <br/>
-[...] we could have amazing advances in **inventions** <br/>
-that leave the world even **more divided**. [...]
+we could have amazing advances in **inventions** <br/>
+that leave the world even **more divided**.
 
-If we have **optimism** but we don't have **empathy**, <br/>
-it doesnt matter how much
-we master the **secrets of science** -- <br/>
+---
+If we have **optimism** <br/>
+but we don't have **empathy**, <br/>
+it doesnt matter how much <br/>
+we master the **secrets of science** --
 
 We're not really **solving problems**, <br/>
 we're just working on **puzzles**.
@@ -40,15 +47,17 @@ we're just working on **puzzles**.
 ---
 God has chosen the **foolish** things of the world <br/>
 to shame the **wise**, <br/>
-and God has chosen the **weak** things of the world <br/>
+and God has chosen <br/>
+the **weak** things of the world <br/>
 to shame the things which are **strong**,
 
+---
 and the **base** things of the world <br/>
 and the **despised** God has chosen, <br/>
 the things that are **not**, <br/>
 so that He may **nullify** the things that are,
 
-29 so that **no man may boast** before God.
+so that **no man may boast** before God.
 
 <div class="caption">
 (1 Corinthians 1:27-29, NASB)
@@ -65,8 +74,8 @@ Truly, truly, I say to you, you are **seeking me**, <br/>
 not because you saw **signs**, <br/>
 but because you **ate your fill** of the loaves.
 
-Do not work for the **food that perishes**, <br/>
-but for the food that **endures to eternal life**, <br/>
+Do not work for the food that **perishes**, <br/>
+but for the food that **endures** to eternal life, <br/>
 which the **Son of Man** will give to you. <br/>
 For on him God the Father has set his **seal**.
 
@@ -80,7 +89,7 @@ Then they said to him, <br/>
 to be doing the **works of God**?”
 
 Jesus answered them, <br/>
-“This is the work of God: <br/>
+“**This** is the work of God: <br/>
 that you **believe in Him** whom he has **sent**.
 
 <div class="caption">
@@ -92,9 +101,12 @@ Who is **wise** and **understanding** among you? <br/>
 By his **good conduct** let him show his **works** <br/>
 in the **meekness** of wisdom.
 
-But if you have bitter **jealousy** and selfish **ambition** <br/>
-in your hearts, do not **boast** and be false to the truth. <br/>
-This is **not** the wisdom that comes down from above, <br/>
+But if you have bitter **jealousy** <br/>
+and selfish **ambition** in your hearts, <br/>
+do not **boast** and be false to the truth.
+
+This is **not** the wisdom <br/>
+that comes down from above, <br/>
 but is **earthly**, unspiritual, demonic.
 
 <div class="caption">
