@@ -83,15 +83,6 @@ may rest upon me.
 1. Earning Wages
 
 ---
-Truly, truly, I say to you, you are **seeking me**, <br/>
-not because you saw **signs**, <br/>
-but because you **ate your fill** of the loaves.
-
-<div class="caption">
-(John 6:26, ESV)
-</div>
-
----
 Do not work for the food that **perishes**, <br/>
 but for the food that **endures** to eternal life,
 
@@ -145,6 +136,7 @@ in the **meekness** of wisdom.
 <div class="caption">
 (James 3:13, ESV)
 </div>
+
 ---
 ## 1. The Snare of Professionalism
 1. Chasing the Guild
@@ -233,6 +225,22 @@ with anyone in **need**.
 
 <div class="caption">
 (Ephesians 4:28, ESV)
+</div>
+
+---
+He who supplies **seed** to the sower  <br/>
+and **bread** for food
+
+will **supply** and **multiply** your seed for sowing <br/> and increase the **harvest** of your **righteousness**.
+
+You will be **enriched** in every way <br/>
+to be **generous** in every way,
+
+which through us will produce <br/>
+**thanksgiving** to God
+
+<div class="caption">
+(2 Corinthians 9:10-11, ESV)
 </div>
 
 ---
