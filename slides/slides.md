@@ -175,7 +175,7 @@ his **faith** is counted as righteousness.
 
 ---
 <!-- .slide: data-background="white" -->
-# Work to train your **heart**
+# Work to train <br/> your **heart**
 
 ---
 ## 2. The Blessing of Employment
@@ -264,7 +264,8 @@ but with **sincerity** of heart, <br/>
 
 ---
 <!-- .slide: data-background="white" -->
-# Toil for God's kingdom <br/> by resting in His **victory**
+# **Toil** for <br/> God's **kingdom**
+# by **resting** <br/> in His **victory**
 
 ---
 ## 3. The Grace of God's Work
