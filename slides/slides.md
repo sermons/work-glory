@@ -93,6 +93,9 @@ For on him God the Father has set his **seal**.
 (John 6:27, ESV)
 </div>
 
+>>>
++ 2 yr project cut, never shipped
+
 ---
 Then they said to him, <br/>
 “What must we **do**, <br/>
@@ -137,6 +140,10 @@ in the **meekness** of wisdom.
 (James 3:13, ESV)
 </div>
 
+>>>
++ **rockstar** software devs
++ "soft skills": **meekness**: humility
+
 ---
 ## 1. The Snare of Professionalism
 1. Chasing the Guild
@@ -157,6 +164,13 @@ his **faith** is counted as righteousness.
 <div class="caption">
 (Romans 4:4-5, ESV)
 </div>
+
+>>>
++ I earned it, I **deserve** it
++ life is a gift
++ what I deserve is hell
++ faith in action
+  + Abraham faith completed in Gen22 Moriah
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-5fNmWej4tAA-laptops_work.jpg" -->
@@ -180,9 +194,7 @@ For you yourselves know <br/>
 how you ought to **imitate** us,
 
 because we were **not idle** <br/>
-when we were with you, <br/>
-nor did we eat anyone's **bread** <br/>
-without paying for it,
+when we were with you, ...
 
 but with **toil** and **labor** <br/>
 we worked night and day, <br/>
@@ -199,8 +211,9 @@ For we hear that some among you <br/>
 walk in **idleness**, <br/>
 not busy at work, but **busybodies**.
 
-Now such persons we command and encourage <br/>
-in the Lord Jesus Christ <br/>
+Now such persons we command <br/>
+and encourage in the Lord Jesus Christ
+
 to do their **work quietly** <br/>
 and to earn their **own living**.
 
