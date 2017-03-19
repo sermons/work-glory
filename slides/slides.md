@@ -6,9 +6,11 @@
 <!-- .slide: data-background="white" -->
 ## Aspire to be a **fool**, <br/> not a professional
 <!-- .element: style="text-align:left" -->
+<p></p>
 
 ## Work to train your **heart**
 <!-- .element: style="text-align:right" -->
+<p></p>
 
 ## Toil for God's kingdom <br/> by resting in His **victory**
 <!-- .element: style="text-align:left" -->
@@ -39,28 +41,38 @@ we're just working on **puzzles**.
 1. The Grace of **God's Work**
 
 ---
+<!-- .slide: data-background="white" -->
+# Aspire to be a **fool**, <br/> not a **professional**
+
+---
 ## 1. The Snare of Professionalism
 1. Chasing the **Guild**
 1. Building **Ambition**
 1. Earning **Wages**
 
 ---
-God has chosen the **foolish** things of the world <br/>
-to shame the **wise**, <br/>
-and God has chosen <br/>
-the **weak** things of the world <br/>
-to shame the things which are **strong**,
+God has chosen <br/>
+the **foolish** things of the world <br/>
+to shame the **wise** ...
 
----
-and the **base** things of the world <br/>
-and the **despised** God has chosen, <br/>
 the things that are **not**, <br/>
 so that He may **nullify** the things that are,
 
 so that **no man may boast** before God.
 
 <div class="caption">
-(1 Corinthians 1:27-29, NASB)
+(1 Corinthians 1:27, 29, NASB)
+</div>
+
+---
+Therefore I will **boast** all the more gladly <br/>
+of my **weaknesses**,
+
+so that the **power of Christ** <br/>
+may rest upon me.
+
+<div class="caption">
+(2 Corinthians 12:9, ESV)
 </div>
 
 ---
@@ -74,13 +86,19 @@ Truly, truly, I say to you, you are **seeking me**, <br/>
 not because you saw **signs**, <br/>
 but because you **ate your fill** of the loaves.
 
+<div class="caption">
+(John 6:26, ESV)
+</div>
+
+---
 Do not work for the food that **perishes**, <br/>
-but for the food that **endures** to eternal life, <br/>
+but for the food that **endures** to eternal life,
+
 which the **Son of Man** will give to you. <br/>
 For on him God the Father has set his **seal**.
 
 <div class="caption">
-(John 6:26-27, ESV)
+(John 6:27, ESV)
 </div>
 
 ---
@@ -140,6 +158,10 @@ his **faith** is counted as righteousness.
 1. The Snare of Professionalism
 1. **The Blessing of Employment**
 1. The Grace of God's Work
+
+---
+<!-- .slide: data-background="white" -->
+# Work to train your **heart**
 
 ---
 ## 2. The Blessing of Employment
@@ -227,16 +249,23 @@ but with **sincerity** of heart, <br/>
 1. **The Grace of God's Work**
 
 ---
+<!-- .slide: data-background="white" -->
+# Toil for God's kingdom <br/> by resting in His **victory**
+
+---
 ## 3. The Grace of God's Work
 1. Welcoming His **Return**
 1. Steadfast because of His **Victory**
 
 ---
-But the **day of the Lord** will come like a thief, <br/>
+But the **day of the Lord** will come like a thief,
+
 in which the **heavens** will <br/>
-**pass away** with a roar <br/>
+**pass away** with a roar
+
 and the **elements** will <br/>
-be **destroyed** with intense heat, <br/>
+be **destroyed** with intense heat,
+
 and the **earth** and its **works** will be **burned up**.
 
 <div class="caption">
@@ -248,7 +277,8 @@ Since all these things <br/>
 are to be **destroyed** in this way,
 
 what sort of people ought you to be <br/>
-in **holy conduct** and **godliness**, <br/>
+in **holy conduct** and **godliness**,
+
 looking for and **hastening** <br/>
 the coming of the day of God!
 
@@ -263,10 +293,10 @@ the coming of the day of God!
 
 ---
 When the perishable puts on the **imperishable**, <br/>
-and the mortal puts on **immortality**, <br/>
+and the mortal puts on **immortality**,
 
 then shall come to pass <br/>
-the saying that is written: <br/>
+the saying that is written:
 
 “**Death** is swallowed up in **victory**.”
 
