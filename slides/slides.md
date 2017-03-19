@@ -1,6 +1,17 @@
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-5fNmWej4tAA-laptops_work.jpg" -->
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-GWe0dlVD9e0-office.jpg" -->
 # Work for the <br/> Glory of God
 ## 1 Corinthians 1:27-29
+
+>>>
++ not as **exegetical** as usual:
+  + not based on a **single** passage
+  + but my **heartfelt** advice
+  + based on **Scripture** and **experience**
++ Christian **perspective** on work
+  + for those who have or will have **jobs**
+  + particularly if **successful** in career
++ Both **pitfalls** and **purpose** in work
++ 3 main points:
 
 ---
 <!-- .slide: data-background="white" -->
@@ -15,24 +26,46 @@
 ## Toil for God's kingdom <br/> by resting in His **victory**
 <!-- .element: style="text-align:left" -->
 
----
-If innovation is purely **market driven**, <br/>
-we could have amazing advances in **inventions** <br/>
-that leave the world even **more divided**.
+>>>
++ pitfall: **snare** of professionalism
++ purpose: **blessing** of having employment
++ peace: finding **grace** in working for God
++ First, a **quote** not from Scripture
+  + but from billionaire innovator **Bill Gates**:
 
 ---
-If we have **optimism** <br/>
+"If innovation is purely **market driven**, <br/>
+we could have amazing advances in **inventions** <br/>
+that leave the world even **more divided**....
+
+>>>
++ 2014 Stanford **commencement** address
++ limitations of **free-market**
+  + don't just go where the **money** is
+
+---
+"If we have **optimism** <br/>
 but we don't have **empathy**,
 
 it doesnt matter how much <br/>
 we master the **secrets of science** --
 
-We're not really **solving problems**, <br/>
-we're just working on **puzzles**.
+we're not really **solving problems**, <br/>
+we're just working on **puzzles**."
 
 <div class="caption">
 (Bill Gates, Stanford commencement 2014)
 </div>
+
+>>>
++ do science not just for thrill of **discovery**
+  + or "geeking out" over what is possible
++ but in order to **help** fellow man
+  + **purpose** + defn of doing **good**
++ Bill + Melinda Gates **Foundation**
+  + malaria, clean water, K-12 education
++ **what** is "good work"?  Worthwhile / **noble**?
+  + What if I **can't find** a "noble" job?
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-5fNmWej4tAA-laptops_work.jpg" -->
@@ -173,7 +206,7 @@ his **faith** is counted as righteousness.
   + Abraham faith completed in Gen22 Moriah
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-5fNmWej4tAA-laptops_work.jpg" -->
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-GWe0dlVD9e0-office.jpg" -->
 ## Work for the Glory of God
 1. The Snare of Professionalism
 1. **The Blessing of Employment**
@@ -277,7 +310,7 @@ but with **sincerity** of heart, <br/>
 </div>
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-5fNmWej4tAA-laptops_work.jpg" -->
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-GWe0dlVD9e0-office.jpg" -->
 ## Work for the Glory of God
 1. The Snare of Professionalism
 1. The Blessing of Employment
@@ -363,7 +396,7 @@ your labor is **not in vain**.
 </div>
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-5fNmWej4tAA-laptops_work.jpg" -->
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-GWe0dlVD9e0-office.jpg" -->
 ## Work for the Glory of God
 1. The Snare of **Professionalism**
 1. The Blessing of **Employment**
@@ -373,11 +406,11 @@ your labor is **not in vain**.
 <!-- .slide: data-background="white" -->
 ## Aspire to be a **fool**, <br/> not a professional
 <!-- .element: style="text-align:left" -->
-<p></p>
+<p>&nbsp;</p>
 
 ## Work to train your **heart**
 <!-- .element: style="text-align:right" -->
-<p></p>
+<p>&nbsp;</p>
 
 ## Toil for God's kingdom <br/> by resting in His **victory**
 <!-- .element: style="text-align:left" -->
