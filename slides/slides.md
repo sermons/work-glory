@@ -68,7 +68,7 @@ we're just working on **puzzles**."
   + What if I **can't find** a "noble" job?
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-5fNmWej4tAA-laptops_work.jpg" -->
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-GWe0dlVD9e0-office.jpg" -->
 ## Work for the Glory of God
 1. The Snare of **Professionalism**
 1. The Blessing of **Employment**
@@ -79,6 +79,7 @@ we're just working on **puzzles**."
 # Aspire to be a **fool**, <br/> not a **professional**
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-5fNmWej4tAA-laptops_work.jpg" -->
 ## 1. The Snare of Professionalism
 1. Chasing the **Guild**
 1. Building **Ambition**
@@ -110,6 +111,7 @@ may rest upon me.
 </div>
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-5fNmWej4tAA-laptops_work.jpg" -->
 ## 1. The Snare of Professionalism
 1. Chasing the Guild
 1. **Building Ambition**
@@ -178,6 +180,7 @@ in the **meekness** of wisdom.
 + "soft skills": **meekness**: humility
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-5fNmWej4tAA-laptops_work.jpg" -->
 ## 1. The Snare of Professionalism
 1. Chasing the Guild
 1. Building Ambition
@@ -199,11 +202,12 @@ his **faith** is counted as righteousness.
 </div>
 
 >>>
-+ I earned it, I **deserve** it
-+ life is a gift
-+ what I deserve is hell
-+ faith in action
-  + Abraham faith completed in Gen22 Moriah
++ "I earned it, I **deserve** it"
++ life is a **gift**
+  + what I deserve is **hell**
++ faith in **action**
+  + quote from *Gen15*, but
+  + faith not **completed** until *Gen22* Moriah
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-GWe0dlVD9e0-office.jpg" -->
@@ -217,6 +221,7 @@ his **faith** is counted as righteousness.
 # Work to train <br/> your **heart**
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-qgHGDbbSNm8-share_tomatoes.jpg" -->
 ## 2. The Blessing of Employment
 1. Rejecting **Idleness**
 1. **Sharing** Generously
@@ -255,6 +260,7 @@ and to earn their **own living**.
 </div>
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-qgHGDbbSNm8-share_tomatoes.jpg" -->
 ## 2. The Blessing of Employment
 1. Rejecting Idleness
 1. **Sharing Generously**
@@ -290,6 +296,7 @@ which through us will produce <br/>
 </div>
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-qgHGDbbSNm8-share_tomatoes.jpg" -->
 ## 2. The Blessing of Employment
 1. Rejecting Idleness
 1. Sharing Generously
@@ -322,6 +329,7 @@ but with **sincerity** of heart, <br/>
 # by **resting** <br/> in His **victory**
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-3Kv48NS4WUU-road_forest_light.jpg" -->
 ## 3. The Grace of God's Work
 1. Welcoming His **Return**
 1. Steadfast because of His **Victory**
@@ -356,6 +364,7 @@ the coming of the day of God!
 </div>
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-3Kv48NS4WUU-road_forest_light.jpg" -->
 ## 3. The Grace of God's Work
 1. Welcoming His Return
 1. **Steadfast because of His Victory**
