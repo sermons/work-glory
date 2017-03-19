@@ -233,6 +233,7 @@ in the **meekness** of wisdom.
 1. Building Ambition
 1. **Earning Wages**
 
+>>>
 + recognition by others
 + pride in what I've built
 + **entitlement** rather than **grace**
@@ -412,7 +413,7 @@ which through us will produce <br/>
 1. Sharing Generously
 1. **Training our Heart Attitude**
 
---
+---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-qYanN54gIrI-praying.jpg" -->
 **Slaves**, in all things <br/>
 **obey** those who are your masters on earth,
