@@ -22,7 +22,8 @@ that leave the world even **more divided**.
 
 ---
 If we have **optimism** <br/>
-but we don't have **empathy**, <br/>
+but we don't have **empathy**,
+
 it doesnt matter how much <br/>
 we master the **secrets of science** --
 
@@ -119,18 +120,31 @@ Who is **wise** and **understanding** among you? <br/>
 By his **good conduct** let him show his **works** <br/>
 in the **meekness** of wisdom.
 
+<div class="caption">
+(James 3:13, ESV)
+</div>
+
+---
 But if you have bitter **jealousy** <br/>
 and selfish **ambition** in your hearts, <br/>
 do not **boast** and be false to the truth.
 
 This is **not** the wisdom <br/>
-that comes down from above, <br/>
+that comes down from above,
+
 but is **earthly**, unspiritual, demonic.
 
 <div class="caption">
-(James 3:13-15, ESV)
+(James 3:14-15, ESV)
 </div>
 
+---
+By his **good conduct** let him show his **works** <br/>
+in the **meekness** of wisdom.
+
+<div class="caption">
+(James 3:13, ESV)
+</div>
 ---
 ## 1. The Snare of Professionalism
 1. Chasing the Guild
@@ -325,3 +339,23 @@ your labor is **not in vain**.
 <div class="caption">
 (1 Corinthians 15:57-58, ESV)
 </div>
+
+---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-5fNmWej4tAA-laptops_work.jpg" -->
+## Work for the Glory of God
+1. The Snare of **Professionalism**
+1. The Blessing of **Employment**
+1. The Grace of **God's Work**
+
+---
+<!-- .slide: data-background="white" -->
+## Aspire to be a **fool**, <br/> not a professional
+<!-- .element: style="text-align:left" -->
+<p></p>
+
+## Work to train your **heart**
+<!-- .element: style="text-align:right" -->
+<p></p>
+
+## Toil for God's kingdom <br/> by resting in His **victory**
+<!-- .element: style="text-align:left" -->
