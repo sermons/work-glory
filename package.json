@@ -1,9 +1,9 @@
 {
   "name": "@sermons/work-glory",
-  "version": "1.2.3",
   "repository": "sermons/work-glory",
   "description": "1Cor1:27-29 Work for the Glory of God",
   "keywords": ["slides", "sermon", "talks", "ppt"],
+  "version": "1.3.0",
   "author": "Sean Ho <seanho@seanho.com> (http://seanho.com)",
   "config": {
     "pretty_url": "work-glory.seanho.com",
@@ -33,7 +33,7 @@
         "href": "https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.4.1/css/reveal.min.css",
        	"integrity": "sha256-5z1tvl5q2pgp1SJIkfLhpdE5JfcAAN1FDBQe3YzlUdg="
       },{
-        "href": "https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.8.0/styles/atom-one-dark.min.css",
+        "href": "https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.10.0/styles/atom-one-dark.min.css",
        	"integrity": "sha256-akwTLZec/XAFvgYgVH1T5/369lhA2Efr22xzCNl1nHs="
       }
     ],
@@ -59,7 +59,7 @@
     "grunt-build-control": "^0.7.1",
     "grunt-coffeelint": "^0.0.16",
     "coffeelint": "^1.16.0",
-    "phantom": "^4.0.1"
+    "grunt-git": "^1.0.3"
   },
   "scripts": {
     "test": "grunt test",
