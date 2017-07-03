@@ -14,7 +14,7 @@
     "pretty_url": "work-glory.seanho.com",
     "cname": "work-glory.seanho.com",
     "multiplex": {
-      "url": "https://mp-seanho00.rhcloud.com:8443/",
+      "url": "https://mp.seanho.com:8443/",
       "id": "fa8b822d92ccd2eb"
     },
     "git": {
@@ -30,7 +30,7 @@
       }
     ],
     "slides": [
-      "slides/sample.md"
+      "slides/slides.md"
     ],
     "css": [
       {
