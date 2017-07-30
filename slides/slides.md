@@ -196,7 +196,7 @@ By his **good conduct** let him show his **works** <br/>
 in the **meekness** of wisdom.
 
 <div class="ref">
-James 3:13 (ESV)
+James 3:13 (ESV) (p.1/2)
 </div>
 
 ---
@@ -211,7 +211,7 @@ that comes down from above,
 but is **earthly**, unspiritual, demonic.
 
 <div class="ref">
-James 3:14-15 (ESV)
+James 3:14-15 (ESV) (p.2/2)
 </div>
 
 ---
@@ -318,7 +318,7 @@ we worked night and day, <br/>
 that we might not be a **burden** to any of you.
 
 <div class="ref">
-2 Thessalonians 3:7-8 (ESV)
+2 Thessalonians 3:7-8 (ESV) (p.1/2)
 </div>
 
 >>>
@@ -339,7 +339,7 @@ to do their **work quietly** <br/>
 and to earn their **own living**.
 
 <div class="ref">
-2 Thessalonians 3:10-12 (ESV)
+2 Thessalonians 3:10-12 (ESV) (p.2/2)
 </div>
 
 >>>
@@ -373,8 +373,8 @@ doing **honest work** with his **own hands**,
 so that he may have something to **share** <br/>
 with anyone in **need**.
 
-<div class="caption">
-(Ephesians 4:28, ESV)
+<div class="ref">
+Ephesians 4:28 (ESV)
 </div>
 
 >>>
@@ -397,8 +397,8 @@ to be **generous** in every way,
 which through us will produce <br/>
 **thanksgiving** to God
 
-<div class="caption">
-(2 Corinthians 9:10-11, ESV)
+<div class="ref">
+2 Corinthians 9:10-11 (ESV)
 </div>
 
 >>>
@@ -425,8 +425,8 @@ as those who merely **please men**,
 but with **sincerity** of heart, <br/>
 **fearing the Lord**.
 
-<div class="caption">
-(Colossians 3:22, NASB)
+<div class="ref">
+Colossians 3:22 (NASB)
 </div>
 
 ---
@@ -459,8 +459,8 @@ be **destroyed** with intense heat,
 
 and the **earth** and its **works** will be **burned up**.
 
-<div class="caption">
-(2 Peter 3:10, NASB)
+<div class="ref">
+2 Peter 3:10 (NASB)
 </div>
 
 ---
@@ -474,8 +474,8 @@ in **holy conduct** and **godliness**,
 looking for and **hastening** <br/>
 the coming of the day of God!
 
-<div class="caption">
-(2 Peter 3:11-12, NASB)
+<div class="ref">
+2 Peter 3:11-12 (NASB)
 </div>
 
 ---
@@ -502,8 +502,8 @@ O death, **where** is your sting?”
 The sting of death is **sin**, <br/>
 and the power of sin is the **law**.
 
-<div class="caption">
-(1 Corinthians 15:54-56, ESV)
+<div class="ref">
+1 Corinthians 15:54-56 (ESV) (p.1/2)
 </div>
 
 ---
@@ -518,8 +518,8 @@ always abounding in the **work of the Lord**,
 knowing that in the Lord <br/>
 your labor is **not in vain**.
 
-<div class="caption">
-(1 Corinthians 15:57-58, ESV)
+<div class="ref">
+1 Corinthians 15:57-58 (ESV) (p.2/2)
 </div>
 
 ---
