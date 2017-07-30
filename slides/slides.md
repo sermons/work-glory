@@ -335,7 +335,7 @@ we worked night and day, <br/>
 that we might not be a **burden** to any of you.
 
 <div class="ref">
-2 Thessalonians 3:7-8 (ESV) (p.1/2)
+2 Thessalonians 3:7-8 (ESV) (p.1/3)
 </div>
 
 >>>
@@ -350,6 +350,12 @@ For we hear that some among you <br/>
 walk in **idleness**, <br/>
 not busy at work, but **busybodies**.
 
+<div class="ref">
+2 Thessalonians 3:10-11 (ESV) (p.2/3)
+</div>
+
+---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-DwTZwZYi9Ww-feet_lawn.jpg" -->
 Now such persons we command <br/>
 and encourage in the Lord Jesus Christ
 
@@ -357,7 +363,7 @@ to do their **work quietly** <br/>
 and to earn their **own living**.
 
 <div class="ref">
-2 Thessalonians 3:10-12 (ESV) (p.2/2)
+2 Thessalonians 3:12 (ESV) (p.3/3)
 </div>
 
 >>>
@@ -565,15 +571,15 @@ O death, **where** is your sting?”
 The sting of death is **sin**, <br/>
 and the power of sin is the **law**.
 
+But thanks be to God, who gives us <br/>
+the **victory** through our Lord **Jesus** Christ.
+
 <div class="ref">
 1 Corinthians 15:55-56 (ESV) (p.2/3)
 </div>
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-e6XsI7qqvAA-forest_sunbeam.jpg" -->
-But thanks be to God, who gives us <br/>
-the **victory** through our Lord **Jesus** Christ.
-
 Therefore, my beloved brothers, <br/>
 be **steadfast**, **immovable**, <br/>
 always abounding in the **work of the Lord**,
