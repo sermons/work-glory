@@ -32,7 +32,7 @@
 >>>
 + pitfall: **snare** of professionalism
 + purpose: **blessing** of employ
-+ peace: find **grace** working for God
++ promise: find **grace** working for God
 + First, a **quote** not from Scripture
   + billionaire innovator **Bill Gates**:
 
@@ -80,7 +80,7 @@ Bill Gates, Stanford commencement 2014
 1. The Grace of **God's Work**
 
 >>>
-+ pitfalls &rarr; purpose &rarr; peace
++ pitfalls &rarr; purpose &rarr; promise
 
 ---
 <!-- .slide: data-background="white" -->
@@ -501,16 +501,36 @@ It is the Lord **Christ** whom you serve.
 1. The Blessing of Employment
 1. **The Grace of God's Work**
 
+>>>
++ pitfalls &rarr; purpose &rarr; promise
++ invest our **energy** in what is **eternal**
+  + work with **lasting** value
+
 ---
 <!-- .slide: data-background="white" -->
 # **Toil** for <br/> God's **kingdom**
 # by **resting** <br/> in His **victory**
+
+>>>
++ to do **God's** work means:
+  + focus **attention**, time, resources
+    + **submit** to God's call
+  + knowing that **Christ** has already
+    done the hard part
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-3Kv48NS4WUU-road_forest_light.jpg" -->
 ## 3. The Grace of God's Work
 1. Welcoming His **Return**
 1. Steadfast because of His **Victory**
+
+>>>
++ look **forward**: anticipate
+  + imminent **coming** of Christ
+  + **perspective** on what matters
++ look **backward**: remember
+  + death + resurrection has **won**
+  + not up to us to **save** world
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-cynn7cTgOCU-bright_clouds.jpg" -->
@@ -528,6 +548,12 @@ and the **earth** and its **works** will be **burned up**.
 2 Peter 3:10 (NASB) (p.1/2)
 </div>
 
+>>>
++ what do I **cling** to which I know
+  + will be **burned** up?
++ so should I just **quit** everything
+  + and **wait** for God?
+
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-cynn7cTgOCU-bright_clouds.jpg" -->
 Since all these things <br/>
@@ -536,18 +562,31 @@ are to be **destroyed** in this way,
 what sort of people ought you to be <br/>
 in **holy conduct** and **godliness**,
 
-looking for and **hastening** <br/>
+**looking for** and hastening <br/>
 the coming of the day of God!
 
 <div class="ref">
 2 Peter 3:11-12 (NASB) (p.2/2)
 </div>
 
+>>>
++ "looking for" (προσδοκῶντας): **welcome**
+  + **hope**: end to all **injustice**
+    + our eternal **reward**
+  + **fear**: **examine** every heart
++ "conduct" (ἀναστροφαῖς): turning upon
++ not what we **do** to save the world
+  + "what sort" of person we **are**
++ **holy** + **reverent**
+
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-3Kv48NS4WUU-road_forest_light.jpg" -->
 ## 3. The Grace of God's Work
 1. Welcoming His Return
 1. **Steadfast because of His Victory**
+
+>>>
++ **character** &rArr; **actions**
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-e6XsI7qqvAA-forest_sunbeam.jpg" -->
@@ -590,6 +629,10 @@ your labor is **not in vain**.
 <div class="ref">
 1 Corinthians 15:57-58 (ESV) (p.3/3)
 </div>
+
+>>>
++ work of the Lord is **not** in vain!
++ **clean** vessel to be **used** by God
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-GWe0dlVD9e0-office.jpg" -->
