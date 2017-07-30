@@ -6,9 +6,9 @@
 + not as **exegetical** as usual:
   + not based on a **single** passage
   + but my **heartfelt** advice
-  + based on **Scripture** and **experience**
+  + from **Scripture** + **experience**
 + Christian **perspective** on work:
-  + for all who have / will **jobs**
+  + for all who have / will have **jobs**
   + particularly if **successful** in career
   + even "non-standard" jobs:
     + "domestic engineer"
@@ -43,8 +43,8 @@ we could have amazing advances in **inventions** <br/>
 that leave the world even **more divided**....
 
 >>>
-+ 2014 Stanford **commencement** address
-+ limitations of **free-market**
++ 2014 Stanford **commencement**
++ limitations of **free-market**:
   + don't just go where the **money** is
 
 ---
@@ -87,9 +87,9 @@ Bill Gates, Stanford commencement 2014
 # Aspire to be a **fool**, <br/> not a **professional**
 
 >>>
-+ wait, aren't we supposed to pursue **excellence**?
-+ what's **wrong** with being **recognised** in my field?
-+ **dangers** to be aware of when you're in the working world:
++ can't I pursue **excellence**?
+  + **recognised** in my field?
++ **dangers** of the working world:
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-5fNmWej4tAA-laptops_work.jpg" -->
@@ -102,7 +102,7 @@ Bill Gates, Stanford commencement 2014
 + **what** defines excellence?
   + Skill, talent, **effort**?
   + Sales, ROI, **recognition**?
-+ Want to be **recognised** for contributions?
++ **recognised** for contributions?
   + By **whom**?
 + **Guild**: peers + leaders in same field
 
@@ -115,8 +115,10 @@ Bill Gates, Stanford commencement 2014
 
 >>>
 + academia: **peer** review
-  + checks+balances, **democratic** process to find truth
-  + in reality: often **echo** chamber, **popularity** contest
+  + checks+balances
+  + **democratic** process &rArr; truth
++ in reality: often **echo** chamber
+  + **popularity** contest
 + not wrong to be **good** at your job,
   + Daniel was recognised for it:
 
@@ -138,9 +140,9 @@ Daniel 6:4 (ESV)
 
 >>>
 + recognised for excellence sometimes &rArr; trouble!
-+ Daniel didn't **pursue** recognition by the guild
-+ if rely on own talent / hard work
-  + leaves less **room** for God's power to be shown:
++ didn't **pursue** recog by guild
++ if rely on own talent / hard work:
+  + less **room** to show God's power:
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-pZVi92S-ZMs-hands_raised.jpg" -->
@@ -175,9 +177,10 @@ may rest upon me.
 
 >>>
 + be recognised, not for **achievements**
-+ but for God's **grace** despite my **failures**
-  + not just weakness, but even **sin**
-+ **hero** of story is **God**
++ but for God's **grace**
+  + despite my **failures**
+  + not just weakness: even **sin**!
++ **hero** of story is **God**, not I
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-5fNmWej4tAA-laptops_work.jpg" -->
@@ -200,6 +203,13 @@ in the **meekness** of wisdom.
 James 3:13 (ESV) (p.1/2)
 </div>
 
+>>>
++ true wisdom demonstrated
+  + not in **boastful** words
+  + but **humble** actions
++ "good conduct" (ἀναστροφῆς): daily life
++ "meekness" (πραΰτητι): gentle, mild
+
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-pHR_S0PeOF0-hands.jpg" -->
 But if you have bitter **jealousy** <br/>
@@ -214,6 +224,11 @@ but is **earthly**, unspiritual, demonic.
 <div class="ref">
 James 3:14-15 (ESV) (p.2/2)
 </div>
+
+>>>
++ "jealousy" (ζῆλον): zeal, eager, pursuit
++ "ambition" (ἐριθείαν): day-labourer
+  + only in it for **money**
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-5fNmWej4tAA-laptops_work.jpg" -->
@@ -253,9 +268,10 @@ Romans 4:4-5 (ESV)
 </div>
 
 >>>
-+ **prayer** for meal: "thanks for nothing, God!"
++ **prayer** for meal:
+  + "thanks for nothing, God!"
 + "I earned it, I **deserve** it"
-+ don't you know how **hard** I worked?
++ "don't you know how **hard** I worked?"
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-IEHPDNk2-8w-matterhorn.jpg" -->
@@ -270,9 +286,9 @@ Romans 4:4-5 (ESV)
 >>>
 + life is a **gift**
   + what I deserve is **hell**
-+ faith in **action**
-  + quote from *Gen15*, but
-  + faith not **completed** until *Gen22* Moriah
++ faith in **action**:
+  + Gen15: **believed** God
+  + Gen22 (Moriah): faith **complete**
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-GWe0dlVD9e0-office.jpg" -->
@@ -284,9 +300,9 @@ Romans 4:4-5 (ESV)
 >>>
 + pitfall &rArr; **purpose**
 + **Why** did God give us work?
-  + even in **Eden**, God gave Adam work
+  + in **Eden**, God gave Adam work:
     + put &rarr; serve &rarr; keep *(Gen2:15)*
-  + **toil** is part of **curse**
++ but the **toil** is from **curse**
 
 ---
 <!-- .slide: data-background="white" -->
@@ -304,7 +320,7 @@ Romans 4:4-5 (ESV)
 1. Training our **Heart** Attitude
 
 >>>
-+ Paul himself set an example
++ Paul himself set an **example**
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-DwTZwZYi9Ww-feet_lawn.jpg" -->
@@ -323,7 +339,8 @@ that we might not be a **burden** to any of you.
 </div>
 
 >>>
-+ tentmaker, paid own way
++ **tentmaker**, paid own way
++ plus **church** work
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-DwTZwZYi9Ww-feet_lawn.jpg" -->
@@ -350,7 +367,7 @@ and to earn their **own living**.
   + &rArr; we get ourselves into trouble
   + create useless **busy-work**
     + e.g., arrange files a certain way
-  + legalistically **demand** others to do same
+  + legal **demand** others be same
     + to validate our importance
 
 ---
@@ -380,9 +397,9 @@ Ephesians 4:28 (ESV)
 
 >>>
 + not just that **stealing** is bad:
-  + not just to provide for **self**:
-+ even that the former thief can **share**
-+ but if I share, will I have **enough** left for myself?
++ work not only to provide for **self**:
+  + even former thief can **share**
++ if I share, **enough** left for myself?
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-M4KpA7NC-l0-grapes_bowl.jpg" -->
@@ -392,6 +409,17 @@ and **bread** for food
 will **supply** and **multiply** your seed for sowing <br/>
 and increase the **harvest** of your **righteousness**.
 
+<div class="ref">
+2 Corinthians 9:10 (ESV) (p.1/2)
+</div>
+
+>>>
++ Not a **zero-sum** economy!
+  + **infinite** God
++ not to **store up** blessing for self:
+
+---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-M4KpA7NC-l0-grapes_bowl.jpg" -->
 You will be **enriched** in every way <br/>
 to be **generous** in every way,
 
@@ -399,14 +427,13 @@ which through us will produce <br/>
 **thanksgiving** to God
 
 <div class="ref">
-2 Corinthians 9:10-11 (ESV)
+2 Corinthians 9:11 (ESV) (p.2/2)
 </div>
 
 >>>
-+ Not a **zero-sum** economy
-  + **infinite** God
-+ **enriched** for purpose of **generosity**
-  + haplotes: simplicity, openness, integrity
++ **enriched** for purpose of **generosity**:
+  + (ἁπλότητα): simplicity, openness, integrity
++ ultimate goal: **glory** to God
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-qgHGDbbSNm8-share_tomatoes.jpg" -->
@@ -414,6 +441,14 @@ which through us will produce <br/>
 1. Rejecting Idleness
 1. Sharing Generously
 1. **Training our Heart Attitude**
+
+>>>
++ **why** work?
+  + not to be **idle**
+  + **share** w/others, to God's glory
+  + for our own **hearts**
++ how to deal w/**bad** work situation?
+  + **boss**, coworkers, regulations
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-qYanN54gIrI-praying.jpg" -->
@@ -429,6 +464,29 @@ but with **sincerity** of heart, <br/>
 <div class="ref">
 Colossians 3:22 (NASB)
 </div>
+
+>>>
++ in NT: some were **slaves** when became Chr
+  + work **feels** like slavery!
++ opportunity to train **faith** in Lord
++ esp when **powerless** at work:
+  + God more **powerful** than corporations
+
+---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-qYanN54gIrI-praying.jpg" -->
+Whatever you do, do your work **heartily**, <br/>
+as for the **Lord** rather than for men,
+
+knowing that from the Lord you will receive  <br/>
+the **reward** of the inheritance.
+
+It is the Lord **Christ** whom you serve.
+
+>>>
++ posted on my white board
++ Christ is our **boss** + **reward**
++ transform **mundane** tasks
+  + into active **faith**
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-GWe0dlVD9e0-office.jpg" -->
@@ -461,7 +519,7 @@ be **destroyed** with intense heat,
 and the **earth** and its **works** will be **burned up**.
 
 <div class="ref">
-2 Peter 3:10 (NASB)
+2 Peter 3:10 (NASB) (p.1/2)
 </div>
 
 ---
@@ -476,7 +534,7 @@ looking for and **hastening** <br/>
 the coming of the day of God!
 
 <div class="ref">
-2 Peter 3:11-12 (NASB)
+2 Peter 3:11-12 (NASB) (p.2/2)
 </div>
 
 ---
@@ -486,7 +544,7 @@ the coming of the day of God!
 1. **Steadfast because of His Victory**
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-cynn7cTgOCU-bright_clouds.jpg" -->
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-e6XsI7qqvAA-forest_sunbeam.jpg" -->
 When the perishable puts on the **imperishable**, <br/>
 and the mortal puts on **immortality**,
 
@@ -495,8 +553,12 @@ the saying that is written:
 
 “**Death** is swallowed up in **victory**.”
 
+<div class="ref">
+1 Corinthians 15:54 (ESV) (p.1/3)
+</div>
+
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-cynn7cTgOCU-bright_clouds.jpg" -->
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-e6XsI7qqvAA-forest_sunbeam.jpg" -->
 “O death, **where** is your victory? <br/>
 O death, **where** is your sting?”
 
@@ -504,11 +566,11 @@ The sting of death is **sin**, <br/>
 and the power of sin is the **law**.
 
 <div class="ref">
-1 Corinthians 15:54-56 (ESV) (p.1/2)
+1 Corinthians 15:55-56 (ESV) (p.2/3)
 </div>
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-cynn7cTgOCU-bright_clouds.jpg" -->
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-e6XsI7qqvAA-forest_sunbeam.jpg" -->
 But thanks be to God, who gives us <br/>
 the **victory** through our Lord **Jesus** Christ.
 
@@ -520,7 +582,7 @@ knowing that in the Lord <br/>
 your labor is **not in vain**.
 
 <div class="ref">
-1 Corinthians 15:57-58 (ESV) (p.2/2)
+1 Corinthians 15:57-58 (ESV) (p.3/3)
 </div>
 
 ---
