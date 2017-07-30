@@ -388,7 +388,7 @@ and to earn their **own living**.
 + extra to **share** without worry
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-M4KpA7NC-l0-grapes_bowl.jpg" -->
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-vGQ49l9I4EE-grapes_hands.jpg" -->
 Let the **thief** no longer steal,
 
 but rather let him **labor**, <br/>
