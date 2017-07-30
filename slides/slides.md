@@ -7,10 +7,10 @@
   + not based on a **single** passage
   + but my **heartfelt** advice
   + based on **Scripture** and **experience**
-+ Christian **perspective** on work
-  + for those who have or will have **jobs**
++ Christian **perspective** on work:
+  + for all who have / will **jobs**
   + particularly if **successful** in career
-  + applies even to "non-standard" jobs:
+  + even "non-standard" jobs:
     + "domestic engineer"
     + **non-profit** work, **church** work
 + Both **pitfalls** and **purpose** in work
@@ -31,10 +31,10 @@
 
 >>>
 + pitfall: **snare** of professionalism
-+ purpose: **blessing** of having employment
-+ peace: finding **grace** in working for God
++ purpose: **blessing** of employ
++ peace: find **grace** working for God
 + First, a **quote** not from Scripture
-  + but from billionaire innovator **Bill Gates**:
+  + billionaire innovator **Bill Gates**:
 
 ---
 "If innovation is purely **market driven**,
@@ -62,13 +62,14 @@ Bill Gates, Stanford commencement 2014
 </div>
 
 >>>
-+ do science not just for thrill of **discovery**
-  + or "geeking out" over what is possible
++ science: not thrill of **discovery**
+  + "geeking out" over possibilities
 + but in order to **help** fellow man
   + **purpose** + defn of doing **good**
 + Bill + Melinda Gates **Foundation**
   + malaria, clean water, K-12 education
-+ **what** is "good work"?  Worthwhile / **noble**?
++ **what** is "good work"?
+  + Worthwhile / **noble**?
   + What if I **can't find** a "noble" job?
 
 ---
