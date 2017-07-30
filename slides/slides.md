@@ -106,7 +106,7 @@ Bill Gates, Stanford commencement 2014
 + **Guild**: peers + leaders in same field
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/cobanage_fake_article_2013.png" class="empty" -->
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/cobanage_fake_article_2013.png" class="top empty" -->
 <div class="caption">
 ([*Science* magazine, 2013](http://science.sciencemag.org/content/342/6154/60.full),
 [*Nature* news, 2014](http://www.nature.com/news/publishers-withdraw-more-than-120-gibberish-papers-1.14763))
