@@ -37,7 +37,8 @@
   + but from billionaire innovator **Bill Gates**:
 
 ---
-"If innovation is purely **market driven**, <br/>
+"If innovation is purely **market driven**,
+
 we could have amazing advances in **inventions** <br/>
 that leave the world even **more divided**....
 
@@ -56,8 +57,8 @@ we master the **secrets of science** --
 we're not really **solving problems**, <br/>
 we're just working on **puzzles**."
 
-<div class="caption">
-(Bill Gates, Stanford commencement 2014)
+<div class="ref">
+Bill Gates, Stanford commencement 2014
 </div>
 
 >>>
@@ -105,7 +106,7 @@ we're just working on **puzzles**."
 + **Guild**: peers + leaders in same field
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/cobanage_fake_article_2013.png" -->
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/cobanage_fake_article_2013.png" class="empty" -->
 <div class="caption">
 ([*Science* magazine, 2013](http://science.sciencemag.org/content/342/6154/60.full),
 [*Nature* news, 2014](http://www.nature.com/news/publishers-withdraw-more-than-120-gibberish-papers-1.14763))
@@ -130,8 +131,8 @@ for complaint or any fault,
 because he was **faithful**, <br/>
 and **no error** or **fault** was found in him.
 
-<div class="caption">
-(Daniel 6:4, ESV)
+<div class="ref">
+Daniel 6:4 (ESV)
 </div>
 
 >>>
@@ -151,8 +152,8 @@ so that He may **nullify** the things that are,
 
 so that **no man may boast** before God.
 
-<div class="caption">
-(1 Corinthians 1:27, 29, NASB)
+<div class="ref">
+1 Corinthians 1:27, 29 (NASB)
 </div>
 
 >>>
@@ -167,8 +168,8 @@ of my **weaknesses**,
 so that the **power of Christ** <br/>
 may rest upon me.
 
-<div class="caption">
-(2 Corinthians 12:9, ESV)
+<div class="ref">
+2 Corinthians 12:9 (ESV)
 </div>
 
 >>>
@@ -194,8 +195,8 @@ Who is **wise** and **understanding** among you? <br/>
 By his **good conduct** let him show his **works** <br/>
 in the **meekness** of wisdom.
 
-<div class="caption">
-(James 3:13, ESV)
+<div class="ref">
+James 3:13 (ESV)
 </div>
 
 ---
@@ -209,8 +210,8 @@ that comes down from above,
 
 but is **earthly**, unspiritual, demonic.
 
-<div class="caption">
-(James 3:14-15, ESV)
+<div class="ref">
+James 3:14-15 (ESV)
 </div>
 
 ---
@@ -218,8 +219,8 @@ but is **earthly**, unspiritual, demonic.
 By his **good conduct** let him show his **works** <br/>
 in the **meekness** of wisdom.
 
-<div class="caption">
-(James 3:13, ESV)
+<div class="ref">
+James 3:13 (ESV)
 </div>
 
 >>>
@@ -246,8 +247,8 @@ and it was counted to him as **righteousness**.”
 Now to the one who works, his **wages** <br/>
 are not counted as a **gift** but as his **due**.
 
-<div class="caption">
-(Romans 4:4-5, ESV)
+<div class="ref">
+Romans 4:4-5 (ESV)
 </div>
 
 >>>
@@ -261,8 +262,8 @@ And to the one who **does not work** <br/>
 but **believes** in him who **justifies** the ungodly, <br/>
 his **faith** is counted as righteousness.
 
-<div class="caption">
-(Romans 4:4-5, ESV)
+<div class="ref">
+Romans 4:4-5 (ESV)
 </div>
 
 >>>
@@ -316,8 +317,8 @@ but with **toil** and **labor** <br/>
 we worked night and day, <br/>
 that we might not be a **burden** to any of you.
 
-<div class="caption">
-(2 Thessalonians 3:7-8, ESV)
+<div class="ref">
+2 Thessalonians 3:7-8 (ESV)
 </div>
 
 >>>
@@ -337,8 +338,8 @@ and encourage in the Lord Jesus Christ
 to do their **work quietly** <br/>
 and to earn their **own living**.
 
-<div class="caption">
-(2 Thessalonians 3:10-12, ESV)
+<div class="ref">
+2 Thessalonians 3:10-12 (ESV)
 </div>
 
 >>>
