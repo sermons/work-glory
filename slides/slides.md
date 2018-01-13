@@ -315,7 +315,7 @@ his **faith** is counted as righteousness.
 + Paul himself set an **example**
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-DwTZwZYi9Ww-feet_lawn.jpg" -->
+<!-- .slide: <%= bg("unsplash-DwTZwZYi9Ww-feet_lawn.jpg") %> -->
 For you yourselves know <br/>
 how you ought to **imitate** us,
 
@@ -335,7 +335,7 @@ that we might not be a **burden** to any of you.
 + plus **church** work
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-DwTZwZYi9Ww-feet_lawn.jpg" -->
+<!-- .slide: <%= bg("unsplash-DwTZwZYi9Ww-feet_lawn.jpg") %> -->
 If anyone is not willing to **work**, let him not **eat**.
 
 For we hear that some among you <br/>
@@ -347,7 +347,7 @@ not busy at work, but **busybodies**.
 </div>
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-DwTZwZYi9Ww-feet_lawn.jpg" -->
+<!-- .slide: <%= bg("unsplash-DwTZwZYi9Ww-feet_lawn.jpg") %> -->
 Now such persons we command <br/>
 and encourage in the Lord Jesus Christ
 
@@ -369,7 +369,7 @@ and to earn their **own living**.
     + to validate our importance
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-qgHGDbbSNm8-share_tomatoes.jpg" -->
+<!-- .slide: <%= bg("unsplash-qgHGDbbSNm8-share_tomatoes.jpg") %> -->
 ## 2. The Blessing of Employment
 1. Rejecting Idleness
 1. **Sharing Generously**
@@ -382,7 +382,7 @@ and to earn their **own living**.
 + extra to **share** without worry
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-vGQ49l9I4EE-grapes_hands.jpg" -->
+<!-- .slide: <%= bg("unsplash-vGQ49l9I4EE-grapes_hands.jpg") %> -->
 Let the **thief** no longer steal,
 
 but rather let him **labor**, <br/>
@@ -402,7 +402,7 @@ Ephesians 4:28 (ESV)
 + if I share, **enough** left for myself?
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-M4KpA7NC-l0-grapes_bowl.jpg" -->
+<!-- .slide: <%= bg("unsplash-M4KpA7NC-l0-grapes_bowl.jpg") %> -->
 He who supplies **seed** to the sower  <br/>
 and **bread** for food
 
@@ -419,7 +419,7 @@ and increase the **harvest** of your **righteousness**.
 + not to **store up** blessing for self:
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-M4KpA7NC-l0-grapes_bowl.jpg" -->
+<!-- .slide: <%= bg("unsplash-M4KpA7NC-l0-grapes_bowl.jpg") %> -->
 You will be **enriched** in every way <br/>
 to be **generous** in every way,
 
@@ -436,7 +436,7 @@ which through us will produce <br/>
 + ultimate goal: **glory** to God
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-qgHGDbbSNm8-share_tomatoes.jpg" -->
+<!-- .slide: <%= bg("unsplash-qgHGDbbSNm8-share_tomatoes.jpg") %> -->
 ## 2. The Blessing of Employment
 1. Rejecting Idleness
 1. Sharing Generously
@@ -453,7 +453,7 @@ which through us will produce <br/>
   + **boss**, coworkers, regulations
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-qYanN54gIrI-praying.jpg" -->
+<!-- .slide: <%= bg("unsplash-qYanN54gIrI-praying.jpg") %> -->
 **Slaves**, in all things <br/>
 **obey** those who are your masters on earth,
 
@@ -475,7 +475,7 @@ Colossians 3:22 (NASB)
   + God more **powerful** than corporations
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-qYanN54gIrI-praying.jpg" -->
+<!-- .slide: <%= bg("unsplash-qYanN54gIrI-praying.jpg") %> -->
 Whatever you do, do your work **heartily**, <br/>
 as for the **Lord** rather than for men,
 
@@ -491,7 +491,7 @@ It is the Lord **Christ** whom you serve.
   + into active **faith**
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-GWe0dlVD9e0-office.jpg" -->
+<!-- .slide: <%= bg("unsplash-GWe0dlVD9e0-office.jpg") %> -->
 ## Work for the Glory of God
 1. The Snare of Professionalism
 1. The Blessing of Employment
@@ -517,7 +517,7 @@ It is the Lord **Christ** whom you serve.
     done the hard part
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-3Kv48NS4WUU-road_forest_light.jpg" -->
+<!-- .slide: <%= bg("unsplash-3Kv48NS4WUU-road_forest_light.jpg") %> -->
 ## 3. The Grace of God's Work
 1. Welcoming His **Return**
 1. Steadfast because of His **Victory**
@@ -533,7 +533,7 @@ It is the Lord **Christ** whom you serve.
   + not up to us to **save** world
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-cynn7cTgOCU-bright_clouds.jpg" -->
+<!-- .slide: <%= bg("unsplash-cynn7cTgOCU-bright_clouds.jpg") %> -->
 But the **day of the Lord** will come like a thief,
 
 in which the **heavens** will <br/>
@@ -555,7 +555,7 @@ and the **earth** and its **works** will be **burned up**.
   + and **wait** for God?
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-cynn7cTgOCU-bright_clouds.jpg" -->
+<!-- .slide: <%= bg("unsplash-cynn7cTgOCU-bright_clouds.jpg") %> -->
 Since all these things <br/>
 are to be **destroyed** in this way,
 
@@ -580,7 +580,7 @@ the coming of the day of God!
 + **holy** + **reverent**
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-3Kv48NS4WUU-road_forest_light.jpg" -->
+<!-- .slide: <%= bg("unsplash-3Kv48NS4WUU-road_forest_light.jpg") %> -->
 ## 3. The Grace of God's Work
 1. Welcoming His Return
 1. **Steadfast because of His Victory**
@@ -591,7 +591,7 @@ the coming of the day of God!
 + **character** &rArr; **actions**
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-e6XsI7qqvAA-forest_sunbeam.jpg" -->
+<!-- .slide: <%= bg("unsplash-e6XsI7qqvAA-forest_sunbeam.jpg") %> -->
 When the perishable puts on the **imperishable**, <br/>
 and the mortal puts on **immortality**,
 
@@ -605,7 +605,7 @@ the saying that is written:
 </div>
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-e6XsI7qqvAA-forest_sunbeam.jpg" -->
+<!-- .slide: <%= bg("unsplash-e6XsI7qqvAA-forest_sunbeam.jpg") %> -->
 “O death, **where** is your victory? <br/>
 O death, **where** is your sting?”
 
@@ -620,7 +620,7 @@ the **victory** through our Lord **Jesus** Christ.
 </div>
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-e6XsI7qqvAA-forest_sunbeam.jpg" -->
+<!-- .slide: <%= bg("unsplash-e6XsI7qqvAA-forest_sunbeam.jpg") %> -->
 Therefore, my beloved brothers, <br/>
 be **steadfast**, **immovable**, <br/>
 always abounding in the **work of the Lord**,
@@ -637,7 +637,7 @@ your labor is **not in vain**.
 + **clean** vessel to be **used** by God
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-GWe0dlVD9e0-office.jpg" -->
+<!-- .slide: <%= bg("unsplash-GWe0dlVD9e0-office.jpg") %> -->
 ## Work for the Glory of God
 1. The Snare of **Professionalism**
 1. The Blessing of **Employment**
