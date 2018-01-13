@@ -303,7 +303,7 @@ his **faith** is counted as righteousness.
 + training your **heart** to be like Christ's
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-qgHGDbbSNm8-share_tomatoes.jpg" -->
+<!-- .slide: <%= bg("unsplash-qgHGDbbSNm8-share_tomatoes.jpg") %> -->
 ## 2. The Blessing of Employment
 1. Rejecting **Idleness**
 1. **Sharing** Generously
