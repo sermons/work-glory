@@ -1,4 +1,4 @@
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-GWe0dlVD9e0-office.jpg" -->
+<!-- .slide: <%= bg("unsplash-GWe0dlVD9e0-office.jpg") %> id="title" -->
 # Work for the <br/> Glory of God
 ## 1 Corinthians 1:27-29
 
@@ -57,9 +57,7 @@ we master the **secrets of science** --
 we're not really **solving problems**, <br/>
 we're just working on **puzzles**."
 
-<div class="ref">
-Bill Gates, Stanford commencement 2014
-</div>
+[Bill Gates, Stanford commencement 2014](# "ref")
 
 >>>
 + science: not thrill of **discovery**
@@ -73,11 +71,13 @@ Bill Gates, Stanford commencement 2014
   + What if I **can't find** a "noble" job?
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-GWe0dlVD9e0-office.jpg" -->
+<!-- .slide: <%= bg("unsplash-GWe0dlVD9e0-office.jpg") %> id="outline" -->
 ## Work for the Glory of God
 1. The Snare of **Professionalism**
 1. The Blessing of **Employment**
 1. The Grace of **God's Work**
+
+<!-- .element: class="outline" -->
 
 >>>
 + pitfalls &rarr; purpose &rarr; promise
@@ -92,11 +92,13 @@ Bill Gates, Stanford commencement 2014
 + **dangers** of the working world:
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-5fNmWej4tAA-laptops_work.jpg" -->
+<!-- .slide: <%= bg("unsplash-5fNmWej4tAA-laptops_work.jpg") %> -->
 ## 1. The Snare of Professionalism
 1. Chasing the **Guild**
 1. Building **Ambition**
 1. Earning **Wages**
+
+<!-- .element: class="outline" -->
 
 >>>
 + **what** defines excellence?
@@ -107,11 +109,9 @@ Bill Gates, Stanford commencement 2014
 + **Guild**: peers + leaders in same field
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/cobanage_fake_article_2013.png" class="top empty" -->
-<div class="caption">
-([*Science* magazine, 2013](http://science.sciencemag.org/content/342/6154/60.full),
-[*Nature* news, 2014](http://www.nature.com/news/publishers-withdraw-more-than-120-gibberish-papers-1.14763))
-</div>
+<!-- .slide: <%= bg("cobanage_fake_article_2013.png") %> class="top empty" -->
+[*Science* magazine, 2013](http://science.sciencemag.org/content/342/6154/60.full "ref")
+[*Nature* news, 2014](http://www.nature.com/news/publishers-withdraw-more-than-120-gibberish-papers-1.14763 "ref")
 
 >>>
 + academia: **peer** review
@@ -123,7 +123,7 @@ Bill Gates, Stanford commencement 2014
   + Daniel was recognised for it:
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/Riviere-Daniels_Answer_to_the_King.jpg" -->
+<!-- .slide: <%= bg("Riviere-Daniels_Answer_to_the_King.jpg") %> -->
 The high officials and the satraps <br/>
 sought to find a ground for **complaint** <br/>
 against Daniel with regard to the **kingdom**,
@@ -134,9 +134,7 @@ for complaint or any fault,
 because he was **faithful**, <br/>
 and **no error** or **fault** was found in him.
 
-<div class="ref">
-Daniel 6:4 (ESV)
-</div>
+[Daniel 6:4 (ESV)](# "ref")
 
 >>>
 + recognised for excellence sometimes &rArr; trouble!
@@ -145,7 +143,7 @@ Daniel 6:4 (ESV)
   + less **room** to show God's power:
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-pZVi92S-ZMs-hands_raised.jpg" -->
+<!-- .slide: <%= bg("unsplash-pZVi92S-ZMs-hands_raised.jpg") %> -->
 God has chosen <br/>
 the **foolish** things of the world <br/>
 to shame the **wise** ...
@@ -155,25 +153,21 @@ so that He may **nullify** the things that are,
 
 so that **no man may boast** before God.
 
-<div class="ref">
-1 Corinthians 1:27, 29 (NASB)
-</div>
+[1 Corinthians 1:27, 29 (NASB)](# "ref")
 
 >>>
 + feel like have **no** talent / smarts?
   + **Good!** then God can **use** you!
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-pZVi92S-ZMs-hands_raised.jpg" -->
+<!-- .slide: <%= bg("unsplash-pZVi92S-ZMs-hands_raised.jpg") %> -->
 Therefore I will **boast** all the more gladly <br/>
 of my **weaknesses**,
 
 so that the **power of Christ** <br/>
 may rest upon me.
 
-<div class="ref">
-2 Corinthians 12:9 (ESV)
-</div>
+[2 Corinthians 12:9 (ESV)](# "ref")
 
 >>>
 + be recognised, not for **achievements**
@@ -183,25 +177,25 @@ may rest upon me.
 + **hero** of story is **God**, not I
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-5fNmWej4tAA-laptops_work.jpg" -->
+<!-- .slide: <%= bg("unsplash-5fNmWej4tAA-laptops_work.jpg") %> -->
 ## 1. The Snare of Professionalism
 1. Chasing the Guild
 1. **Building Ambition**
 1. Earning Wages
+
+<!-- .element: class="outline" -->
 
 >>>
 + guild: **recognition** by people
 + ambition: **pride** in own accomplishments
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-pHR_S0PeOF0-hands.jpg" -->
+<!-- .slide: <%= bg("unsplash-pHR_S0PeOF0-hands.jpg") %> -->
 Who is **wise** and **understanding** among you? <br/>
 By his **good conduct** let him show his **works** <br/>
 in the **meekness** of wisdom.
 
-<div class="ref">
-James 3:13 (ESV) (p.1/2)
-</div>
+[James 3:13 (ESV) (p.1/2)](# "ref")
 
 >>>
 + true wisdom demonstrated
@@ -211,7 +205,7 @@ James 3:13 (ESV) (p.1/2)
 + "meekness" (πραΰτητι): gentle, mild
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-pHR_S0PeOF0-hands.jpg" -->
+<!-- .slide: <%= bg("unsplash-pHR_S0PeOF0-hands.jpg")
 But if you have bitter **jealousy** <br/>
 and selfish **ambition** in your hearts, <br/>
 do not **boast** and be false to the truth.
@@ -221,9 +215,7 @@ that comes down from above,
 
 but is **earthly**, unspiritual, demonic.
 
-<div class="ref">
-James 3:14-15 (ESV) (p.2/2)
-</div>
+[James 3:14-15 (ESV) (p.2/2)](# "ref")
 
 >>>
 + "jealousy" (ζῆλον): zeal, eager, pursuit
@@ -231,24 +223,24 @@ James 3:14-15 (ESV) (p.2/2)
   + only in it for **money**
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-5fNmWej4tAA-laptops_work.jpg" -->
+<!-- .slide: <%= bg("unsplash-5fNmWej4tAA-laptops_work.jpg") %> -->
 By his **good conduct** let him show his **works** <br/>
 in the **meekness** of wisdom.
 
-<div class="ref">
-James 3:13 (ESV)
-</div>
+[James 3:13 (ESV)](# "ref")
 
 >>>
 + **rockstar** software devs
 + "soft skills": **meekness**: humility
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-5fNmWej4tAA-laptops_work.jpg" -->
+<!-- .slide: <%= bg("unsplash-5fNmWej4tAA-laptops_work.jpg") %> -->
 ## 1. The Snare of Professionalism
 1. Chasing the Guild
 1. Building Ambition
 1. **Earning Wages**
+
+<!-- .element: class="outline" -->
 
 >>>
 + recognition by others
@@ -256,16 +248,14 @@ James 3:13 (ESV)
 + **entitlement** rather than **grace**
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-IEHPDNk2-8w-matterhorn.jpg" -->
+<!-- .slide: <%= bg("unsplash-IEHPDNk2-8w-matterhorn.jpg") %> -->
 “Abraham **believed God**, <br/>
 and it was counted to him as **righteousness**.”
 
 Now to the one who works, his **wages** <br/>
 are not counted as a **gift** but as his **due**.
 
-<div class="ref">
-Romans 4:4-5 (ESV)
-</div>
+[Romans 4:4 (ESV) (p.1/2)](# "ref")
 
 >>>
 + **prayer** for meal:
@@ -274,14 +264,12 @@ Romans 4:4-5 (ESV)
 + "don't you know how **hard** I worked?"
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-IEHPDNk2-8w-matterhorn.jpg" -->
+<!-- .slide: <%= bg("unsplash-IEHPDNk2-8w-matterhorn.jpg") %> -->
 And to the one who **does not work** <br/>
 but **believes** in him who **justifies** the ungodly, <br/>
 his **faith** is counted as righteousness.
 
-<div class="ref">
-Romans 4:4-5 (ESV)
-</div>
+[Romans 4:5 (ESV) (p.2/2)](# "ref")
 
 >>>
 + life is a **gift**
@@ -291,11 +279,13 @@ Romans 4:4-5 (ESV)
   + Gen22 (Moriah): faith **complete**
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-GWe0dlVD9e0-office.jpg" -->
+<!-- .slide: <%= bg("unsplash-GWe0dlVD9e0-office.jpg") %> -->
 ## Work for the Glory of God
 1. The Snare of Professionalism
 1. **The Blessing of Employment**
 1. The Grace of God's Work
+
+<!-- .element: class="outline" -->
 
 >>>
 + pitfall &rArr; **purpose**
@@ -318,6 +308,8 @@ Romans 4:4-5 (ESV)
 1. Rejecting **Idleness**
 1. **Sharing** Generously
 1. Training our **Heart** Attitude
+
+<!-- .element: class="outline" -->
 
 >>>
 + Paul himself set an **example**
@@ -382,6 +374,8 @@ and to earn their **own living**.
 1. Rejecting Idleness
 1. **Sharing Generously**
 1. Training our Heart Attitude
+
+<!-- .element: class="outline" -->
 
 >>>
 + not just providing for **self** / family
@@ -448,6 +442,8 @@ which through us will produce <br/>
 1. Sharing Generously
 1. **Training our Heart Attitude**
 
+<!-- .element: class="outline" -->
+
 >>>
 + **why** work?
   + not to be **idle**
@@ -501,6 +497,8 @@ It is the Lord **Christ** whom you serve.
 1. The Blessing of Employment
 1. **The Grace of God's Work**
 
+<!-- .element: class="outline" -->
+
 >>>
 + pitfalls &rarr; purpose &rarr; promise
 + invest our **energy** in what is **eternal**
@@ -523,6 +521,8 @@ It is the Lord **Christ** whom you serve.
 ## 3. The Grace of God's Work
 1. Welcoming His **Return**
 1. Steadfast because of His **Victory**
+
+<!-- .element: class="outline" -->
 
 >>>
 + look **forward**: anticipate
@@ -585,6 +585,8 @@ the coming of the day of God!
 1. Welcoming His Return
 1. **Steadfast because of His Victory**
 
+<!-- .element: class="outline" -->
+
 >>>
 + **character** &rArr; **actions**
 
@@ -640,6 +642,8 @@ your labor is **not in vain**.
 1. The Snare of **Professionalism**
 1. The Blessing of **Employment**
 1. The Grace of **God's Work**
+
+<!-- .element: class="outline" -->
 
 ---
 <!-- .slide: data-background="white" -->
