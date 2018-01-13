@@ -205,7 +205,7 @@ in the **meekness** of wisdom.
 + "meekness" (πραΰτητι): gentle, mild
 
 ---
-<!-- .slide: <%= bg("unsplash-pHR_S0PeOF0-hands.jpg")
+<!-- .slide: <%= bg("unsplash-pHR_S0PeOF0-hands.jpg") %> -->
 But if you have bitter **jealousy** <br/>
 and selfish **ambition** in your hearts, <br/>
 do not **boast** and be false to the truth.
