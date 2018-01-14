@@ -10,7 +10,7 @@
 + Christian **perspective** on work:
   + for all who have / will have **jobs**
   + particularly if **successful** in career
-  + even "non-standard" jobs:
+  + but even "non-standard" jobs:
     + "domestic engineer"
     + **non-profit** work, **church** work
 + Both **pitfalls** and **purpose** in work
@@ -65,10 +65,11 @@ we're just working on **puzzles**."
 + but in order to **help** fellow man
   + **purpose** + defn of doing **good**
 + Bill + Melinda Gates **Foundation**
-  + malaria, clean water, K-12 education
+  + malaria, clean water, K-12 edu
 + **what** is "good work"?
   + Worthwhile / **noble**?
   + What if I **can't find** a "noble" job?
++ **glorify** God where I am
 
 ---
 <!-- .slide: <%= bg("unsplash-GWe0dlVD9e0-office.jpg") %> id="outline" -->
@@ -101,6 +102,7 @@ we're just working on **puzzles**."
 <!-- .element: class="outline" -->
 
 >>>
++ 1st of 3 **pitfalls**:
 + **what** defines excellence?
   + Skill, talent, **effort**?
   + Sales, ROI, **recognition**?
@@ -116,11 +118,11 @@ we're just working on **puzzles**."
 >>>
 + academia: **peer** review
   + checks+balances
-  + **democratic** process &rArr; truth
+  + **democratic** process &rArr; "truth"
 + in reality: often **echo** chamber
   + **popularity** contest
 + not wrong to be **good** at your job,
-  + Daniel was recognised for it:
+  + **Daniel** was recognised for it:
 
 ---
 <!-- .slide: <%= bg("Riviere-Daniels_Answer_to_the_King.jpg") %> -->
@@ -137,7 +139,8 @@ and **no error** or **fault** was found in him.
 [Daniel 6:4 (ESV)](# "ref")
 
 >>>
-+ recognised for excellence sometimes &rArr; trouble!
++ **recognised** for excellence:
+  + sometimes leads to **trouble**!
 + didn't **pursue** recog by guild
 + if rely on own talent / hard work:
   + less **room** to show God's power:
@@ -201,7 +204,7 @@ in the **meekness** of wisdom.
 + true wisdom demonstrated
   + not in **boastful** words
   + but **humble** actions
-+ "good conduct" (ἀναστροφῆς): daily life
++ "conduct" (ἀναστροφῆς): daily life
 + "meekness" (πραΰτητι): gentle, mild
 
 ---
