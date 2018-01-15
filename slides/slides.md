@@ -72,13 +72,11 @@ we're just working on **puzzles**."
 + **glorify** God where I am
 
 ---
-<!-- .slide: <%= bg("unsplash-GWe0dlVD9e0-office.jpg") %> id="outline" -->
+<!-- .slide: <%= bg("unsplash-GWe0dlVD9e0-office.jpg") %> id="outline" class="outline" -->
 ## Work for the Glory of God
 1. The Snare of **Professionalism**
 1. The Blessing of **Employment**
 1. The Grace of **God's Work**
-
-<!-- .element: class="outline" -->
 
 >>>
 + pitfalls &rarr; purpose &rarr; promise
@@ -93,13 +91,11 @@ we're just working on **puzzles**."
 + **dangers** of the working world:
 
 ---
-<!-- .slide: <%= bg("unsplash-5fNmWej4tAA-laptops_work.jpg") %> -->
+<!-- .slide: <%= bg("unsplash-5fNmWej4tAA-laptops_work.jpg") %> class="outline" -->
 ## 1. The Snare of Professionalism
 1. Chasing the **Guild**
 1. Building **Ambition**
 1. Earning **Wages**
-
-<!-- .element: class="outline" -->
 
 >>>
 + 1st of 3 **pitfalls**:
@@ -180,13 +176,11 @@ may rest upon me.
 + **hero** of story is **God**, not I
 
 ---
-<!-- .slide: <%= bg("unsplash-5fNmWej4tAA-laptops_work.jpg") %> -->
+<!-- .slide: <%= bg("unsplash-5fNmWej4tAA-laptops_work.jpg") %> class="outline" -->
 ## 1. The Snare of Professionalism
 1. Chasing the Guild
 1. **Building Ambition**
 1. Earning Wages
-
-<!-- .element: class="outline" -->
 
 >>>
 + guild: **recognition** by people
@@ -237,13 +231,11 @@ in the **meekness** of wisdom.
 + "soft skills": **meekness**: humility
 
 ---
-<!-- .slide: <%= bg("unsplash-5fNmWej4tAA-laptops_work.jpg") %> -->
+<!-- .slide: <%= bg("unsplash-5fNmWej4tAA-laptops_work.jpg") %> class="outline" -->
 ## 1. The Snare of Professionalism
 1. Chasing the Guild
 1. Building Ambition
 1. **Earning Wages**
-
-<!-- .element: class="outline" -->
 
 >>>
 + recognition by others
@@ -282,13 +274,11 @@ his **faith** is counted as righteousness.
   + Gen22 (Moriah): faith **complete**
 
 ---
-<!-- .slide: <%= bg("unsplash-GWe0dlVD9e0-office.jpg") %> -->
+<!-- .slide: <%= bg("unsplash-GWe0dlVD9e0-office.jpg") %> class="outline" -->
 ## Work for the Glory of God
 1. The Snare of Professionalism
 1. **The Blessing of Employment**
 1. The Grace of God's Work
-
-<!-- .element: class="outline" -->
 
 >>>
 + pitfall &rArr; **purpose**
@@ -306,13 +296,11 @@ his **faith** is counted as righteousness.
 + training your **heart** to be like Christ's
 
 ---
-<!-- .slide: <%= bg("unsplash-qgHGDbbSNm8-share_tomatoes.jpg") %> -->
+<!-- .slide: <%= bg("unsplash-qgHGDbbSNm8-share_tomatoes.jpg") %> class="outline" -->
 ## 2. The Blessing of Employment
 1. Rejecting **Idleness**
 1. **Sharing** Generously
 1. Training our **Heart** Attitude
-
-<!-- .element: class="outline" -->
 
 >>>
 + Paul himself set an **example**
@@ -372,13 +360,11 @@ and to earn their **own living**.
     + to validate our importance
 
 ---
-<!-- .slide: <%= bg("unsplash-qgHGDbbSNm8-share_tomatoes.jpg") %> -->
+<!-- .slide: <%= bg("unsplash-qgHGDbbSNm8-share_tomatoes.jpg") %> class="outline" -->
 ## 2. The Blessing of Employment
 1. Rejecting Idleness
 1. **Sharing Generously**
 1. Training our Heart Attitude
-
-<!-- .element: class="outline" -->
 
 >>>
 + not just providing for **self** / family
@@ -439,13 +425,11 @@ which through us will produce <br/>
 + ultimate goal: **glory** to God
 
 ---
-<!-- .slide: <%= bg("unsplash-qgHGDbbSNm8-share_tomatoes.jpg") %> -->
+<!-- .slide: <%= bg("unsplash-qgHGDbbSNm8-share_tomatoes.jpg") %> class="outline" -->
 ## 2. The Blessing of Employment
 1. Rejecting Idleness
 1. Sharing Generously
 1. **Training our Heart Attitude**
-
-<!-- .element: class="outline" -->
 
 >>>
 + **why** work?
@@ -494,13 +478,11 @@ It is the Lord **Christ** whom you serve.
   + into active **faith**
 
 ---
-<!-- .slide: <%= bg("unsplash-GWe0dlVD9e0-office.jpg") %> -->
+<!-- .slide: <%= bg("unsplash-GWe0dlVD9e0-office.jpg") %> class="outline" -->
 ## Work for the Glory of God
 1. The Snare of Professionalism
 1. The Blessing of Employment
 1. **The Grace of God's Work**
-
-<!-- .element: class="outline" -->
 
 >>>
 + pitfalls &rarr; purpose &rarr; promise
@@ -520,12 +502,10 @@ It is the Lord **Christ** whom you serve.
     done the hard part
 
 ---
-<!-- .slide: <%= bg("unsplash-3Kv48NS4WUU-road_forest_light.jpg") %> -->
+<!-- .slide: <%= bg("unsplash-3Kv48NS4WUU-road_forest_light.jpg") %> class="outline" -->
 ## 3. The Grace of God's Work
 1. Welcoming His **Return**
 1. Steadfast because of His **Victory**
-
-<!-- .element: class="outline" -->
 
 >>>
 + look **forward**: anticipate
@@ -583,12 +563,10 @@ the coming of the day of God!
 + **holy** + **reverent**
 
 ---
-<!-- .slide: <%= bg("unsplash-3Kv48NS4WUU-road_forest_light.jpg") %> -->
+<!-- .slide: <%= bg("unsplash-3Kv48NS4WUU-road_forest_light.jpg") %> class="outline" -->
 ## 3. The Grace of God's Work
 1. Welcoming His Return
 1. **Steadfast because of His Victory**
-
-<!-- .element: class="outline" -->
 
 >>>
 + **character** &rArr; **actions**
@@ -640,13 +618,11 @@ your labor is **not in vain**.
 + **clean** vessel to be **used** by God
 
 ---
-<!-- .slide: <%= bg("unsplash-GWe0dlVD9e0-office.jpg") %> -->
+<!-- .slide: <%= bg("unsplash-GWe0dlVD9e0-office.jpg") %> class="outline" -->
 ## Work for the Glory of God
 1. The Snare of **Professionalism**
 1. The Blessing of **Employment**
 1. The Grace of **God's Work**
-
-<!-- .element: class="outline" -->
 
 ---
 <!-- .slide: data-background="white" -->
