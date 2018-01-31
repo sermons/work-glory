@@ -19,15 +19,12 @@
 ---
 <!-- .slide: data-background="white" -->
 ## Aspire to be a **fool**, <br/> not a professional
-<!-- .element: style="text-align:left" -->
 <p>&nbsp;</p>
 
 ## Work to train your **heart**
-<!-- .element: style="text-align:right" -->
 <p>&nbsp;</p>
 
 ## Toil for God's kingdom <br/> by resting in His **victory**
-<!-- .element: style="text-align:left" -->
 
 >>>
 + pitfall: **snare** of professionalism
@@ -627,12 +624,9 @@ your labor is **not in vain**.
 ---
 <!-- .slide: data-background="white" -->
 ## Aspire to be a **fool**, <br/> not a professional
-<!-- .element: style="text-align:left" -->
 <p>&nbsp;</p>
 
 ## Work to train your **heart**
-<!-- .element: style="text-align:right" -->
 <p>&nbsp;</p>
 
 ## Toil for God's kingdom <br/> by resting in His **victory**
-<!-- .element: style="text-align:left" -->
