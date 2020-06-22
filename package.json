@@ -3,15 +3,12 @@
   "repository": "sermons/work-glory",
   "description": "1Cor1:27-29 Work for the Glory of God",
   "keywords": [
-    "slides",
-    "lectures",
-    "talks",
-    "ppt"
+    "slides"
   ],
-  "version": "1.7.4",
+  "version": "2.2.0",
   "author": "Sean Ho <seanho@seanho.com> (http://seanho.com)",
   "config": {
-    "pretty_url": "work-glory.seanho.com",
+    "pretty_url": "",
     "cname": "work-glory.seanho.com",
     "multiplex": {
       "url": "https://mp.seanho.com/",
@@ -42,28 +39,36 @@
       }
     ],
     "slides": [
-      "slides/slides.md"
+      "slides.md"
     ],
     "reveal": "https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.8.0",
     "mathjax": "https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/MathJax.js",
     "css": [
       {
-        "href": "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css",
-        "integrity": "sha256-eZrrJcwDc/3uDhsdt61sL2oOBY362qM3lon1gyExkL0="
+        "href": "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/css/fontawesome.min.css",
+        "integrity": "sha256-CuUPKpitgFmSNQuPDL5cEfPOOJT/+bwUlhfumDJ9CI4="
+      },
+      {
+        "href": "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/css/solid.min.css",
+        "integrity": "sha256-pIAzc/BIIo/hSvtNEDIiMTBtR9EfK3COmnH2pt8cPDY="
+      },
+      {
+        "href": "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/css/brands.min.css",
+        "integrity": "sha256-wfbbsQFYKnizQi/WLPXS3wVDu0Dpi2yUQpZBDsb2H1s="
       },
       {
         "href": "https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.8.0/css/reveal.min.css",
         "integrity": "sha256-OxiHrn+gXudPDHxTvXiQzeFjZU/FllSSPmOOYAZ1O/g="
       },
       {
-        "href": "https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.10/styles/atom-one-dark.min.css",
-        "integrity": "sha256-GA29iW/iYj9FcuQQktvW45pRzHvZeFfgeFvA4tGVjpM="
+        "href": "https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.0.3/styles/atom-one-dark.min.css",
+        "integrity": "sha256-91Q4dP2FrFQCLpK/8fPlQyatehNmhUOXKRFM1CtE7Sw="
       }
     ],
     "js": [
       {
-        "src": "https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.10/highlight.min.js",
-        "integrity": "sha256-1zu+3BnLYV9LdiY85uXMzii3bdrkelyp37e0ZyTAQh0="
+        "src": "https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.0.3/highlight.min.js",
+        "integrity": "sha256-/2C3CAfmuTGkUqK2mVrhkTacBscoR1caE0u2QZZ3Uh8="
       },
       {
         "src": "https://cdnjs.cloudflare.com/ajax/libs/socket.io/2.3.0/socket.io.slim.js",
@@ -74,8 +79,8 @@
         "integrity": "sha256-pv4AarTAzSO6lz+bbMPwmV29XMjkzmFOn601b2pWqXE="
       },
       {
-        "src": "https://cdnjs.cloudflare.com/ajax/libs/marked/0.7.0/marked.min.js",
-        "integrity": "sha256-0Ed5s/n37LIeAWApZmZUhY9icm932KvYkTVdJzUBiI4="
+        "src": "https://cdnjs.cloudflare.com/ajax/libs/marked/1.0.0/marked.min.js",
+        "integrity": "sha256-JUIJCIbiDdnT6IGIU/ZbydNyumUIMsEelMTrSfDb1Sc="
       },
       {
         "src": "https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.8.0/plugin/markdown/markdown.min.js",
@@ -91,24 +96,23 @@
   "private": true,
   "dependencies": {
     "reveal.js": "^3.8.0",
-    "highlight.js": "^9.15.10",
+    "highlight.js": "^10.0.3",
     "socket.io": "^2.3.0",
-    "marked": "^0.7.0"
+    "marked": "^1.0.0"
   },
   "devDependencies": {
-    "grunt": "^1.0.4",
+    "grunt": "^1.1.0",
     "load-grunt-tasks": "^5.1.0",
     "grunt-contrib-connect": "^2.1.0",
     "grunt-contrib-copy": "^1.0.0",
-    "node-sass": "^4.13.0",
+    "node-sass": "^4.14.1",
     "grunt-sass": "^3.1.0",
     "grunt-exec": "^3.0.0",
     "qrcode": "^1.4.4",
-    "decktape": "^2.10.0"
+    "decktape": "^3.0.0"
   },
   "scripts": {
     "postinstall": "grunt install",
-    "test": "grunt test",
-    "dist": "grunt dist"
+    "test": "grunt test"
   }
 }
