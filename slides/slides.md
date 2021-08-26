@@ -665,10 +665,8 @@ your labor is **not in vain**.
 ---
 <!-- .slide: data-background="white" -->
 ## Aspire to be a **fool**, <br/> not a professional
-<p>&nbsp;</p>
 
 ## Work to train your **heart**
-<p>&nbsp;</p>
 
 ## Toil for God's kingdom <br/> by resting in His **victory**
 
