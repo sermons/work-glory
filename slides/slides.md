@@ -41,7 +41,7 @@ that leave the world even **more divided**....
 "If we have **optimism** <br/>
 but we don't have **empathy**,
 
-it doesnt matter how much <br/>
+it doesn't matter how much <br/>
 we master the **secrets of science** --
 
 we're not really **solving problems**, <br/>
