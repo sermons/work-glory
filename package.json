@@ -20,10 +20,16 @@
     },
     "history": [
       {
+        "venue": "Tri-City Chinese Christian Church MB",
+        "city": "Port Moody",
+        "date": "2021-09-12",
+        "duration": 26
+      },
+      {
         "venue": "Tri-City Canaan Church",
         "city": "Port Coquitlam",
         "date": "2021-08-29",
-        "duration": 0
+        "duration": 26
       },
       {
         "venue": "Pacific Grace Mandarin Church",
